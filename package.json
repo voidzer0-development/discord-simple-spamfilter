@@ -1,0 +1,23 @@
+{
+  "name": "discord-simple-spamfilter",
+  "version": "1.0.0",
+  "description": "discord spamfilter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voidzero-development/discord-simple-spamfilter.git"
+  },
+  "author": "void",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voidzero-development/discord-simple-spamfilter/issues"
+  },
+  "homepage": "https://github.com/voidzero-development/discord-simple-spamfilter#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
